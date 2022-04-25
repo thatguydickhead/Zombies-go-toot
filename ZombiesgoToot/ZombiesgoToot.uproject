@@ -1,6 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "4.27",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ZombiesGoToot",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
